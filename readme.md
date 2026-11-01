@@ -38,10 +38,10 @@ If you don't want to deal with Python, use the compiled executable:
 ## Usage for Linux Users
 1. Download the `Linux-Release.zip` from the **[Releases]** tab and extract it.
 2. Open your terminal and grant execution permission to the file:
-    `chmod +x InstagramMassUnlike-LinuxGUI`
-3. Run the executable:
-    `./InstagramMassUnlike-LinuxGUI`
-4. Follow the on-screen GUI wizard just like the Windows version.
+     `chmod +x InstagramMassUnlike-LinuxGUI`
+4. Run the executable:
+     `./InstagramMassUnlike-LinuxGUI`
+6. Follow the on-screen GUI wizard just like the Windows version.
 
 ## For Developers
 If you want to run the project from the source code:
