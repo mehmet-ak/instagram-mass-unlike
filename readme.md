@@ -38,25 +38,25 @@ If you don't want to deal with Python, use the compiled executable:
 ## Usage for Linux Users
 1. Download the `Linux-Release.zip` from the **[Releases]** tab and extract it.
 2. Open your terminal and grant execution permission to the file:
-    chmod +x InstagramMassUnlike-LinuxGUI
+    `chmod +x InstagramMassUnlike-LinuxGUI`
 3. Run the executable:
-    ./InstagramMassUnlike-LinuxGUI
+    `./InstagramMassUnlike-LinuxGUI`
 4. Follow the on-screen GUI wizard just like the Windows version.
 
 ## For Developers
 If you want to run the project from the source code:
 1. Clone and setup environment
-    python3 -m venv bot_env
-    source bot_env/bin/activate  # On Windows use: bot_env\Scripts\activate
+    `python3 -m venv bot_env`
+    `source bot_env/bin/activate`  # On Windows use: `bot_env\Scripts\activate`
 
 2. Install dependencies
-    pip install -r requirements.txt
+    `pip install -r requirements.txt`
 
 3. Run from source
-    python unlike_bot_gui.py
+    `python unlike_bot_gui.py`
 
-4. Compile for Windows (Must be run on a Windows machine)
-    pyinstaller --onefile --noconsole --name InstagramMassUnlike-WindowsGUI unlike_bot_gui.py
+4.1. Compile for Windows (Must be run on a Windows machine)
+    `pyinstaller --onefile --noconsole --name InstagramMassUnlike-WindowsGUI unlike_bot_gui.py`
 
-5. Compile for Linux (Must be run on a Linux machine)
-    pyinstaller --onefile --windowed --name InstagramMassUnlike-LinuxGUI unlike_bot_gui.py
+4.2. Compile for Linux (Must be run on a Linux machine)
+    `pyinstaller --onefile --windowed --name InstagramMassUnlike-LinuxGUI unlike_bot_gui.py`
