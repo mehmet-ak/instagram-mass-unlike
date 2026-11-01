@@ -29,14 +29,14 @@ Standalone executables for both Windows (`.exe`) and Linux are provided. No Pyth
 
 ## Usage for Windows Users
 If you don't want to deal with Python, use the compiled executable:
-1. Download the `Windows-Release.zip` from the **[Releases]** tab and extract it.
+1. Download the `Windows-Release.zip` from the **[Releases](https://github.com/mehmet-ak/instagram-mass-unlike/releases/tag/v1.0.0)** tab and extract it.
 2. Double-click the `.exe` file to run the program. 
 3. Follow the on-screen wizard: Select your language, choose if you want a whitelist, and browse to select your JSON files.
 4. When prompted in Step 4, click the button to open Chrome and log in to your Instagram account.
 5. After you are fully logged in, return to the application window and click the second button to start the process. The progress bar will show real-time updates.
 
 ## Usage for Linux Users
-1. Download the `Linux-Release.zip` from the **[Releases]** tab and extract it.
+1. Download the `Linux-Release.zip` from the **[RELEASES](https://github.com/mehmet-ak/instagram-mass-unlike/releases/tag/v1.0.0)** tab and extract it.
 2. Open your terminal and grant execution permission to the file:
    ```bash
    chmod +x InstagramMassUnlike-LinuxGUI
