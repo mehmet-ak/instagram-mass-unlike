@@ -14,6 +14,9 @@ This tool automatically removes your likes from thousands of Instagram posts whi
 
 Standalone executables for both Windows (`.exe`) and Linux are provided. No Python installation is required for end-users.
 
+**Prerequisite 1:** You must have **Google Chrome** installed on your computer for this tool to work.
+**Prerequisite 2:** You must **NOT** use your computer while this tool is on. This is an interactive tool with your tabs.
+
 ## Features
 - **User-Friendly GUI:** A complete, interactive wizard interface built with Tkinter. No more command-line interactions.
 - **Smart Whitelist:** Easily browse and select your `following.json` (or any follower list) to automatically skip unliking posts from your protected users.
