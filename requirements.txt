@@ -1,0 +1,4 @@
+selenium>=4.15.2
+undetected-chromedriver>=3.5.3
+setuptools>=69.0.2
+tk>=0.1.0

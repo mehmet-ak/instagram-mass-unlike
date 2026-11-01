@@ -1,0 +1,19 @@
+# Python env
+bot_env/
+venv/
+env/
+__pycache__/
+
+# trash files in compilation
+build/
+dist/
+*.spec
+
+# user instagram data
+*.json
+liked_posts.json
+following.json
+followers_1.json
+
+# system file
+.DS_Store
