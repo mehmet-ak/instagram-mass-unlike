@@ -1,4 +1,4 @@
-# Instagram Mass Unlike Bot (with GUI & Dynamic Whitelist)
+# Instagram Mass Unlike Bot
 
 > **⚠️ IMPORTANT DISCLAIMER**
 > 
@@ -10,7 +10,7 @@
 
 
 ## INFO
-This tool automatically removes your likes from thousands of Instagram posts while allowing you to protect (whitelist) specific users, such as people you follow. It features a full Graphical User Interface (GUI) for ease of use.
+This tool automatically removes your likes from thousands of Instagram posts while allowing you to protect (whitelist) specific users, such as people you follow. It features a full Graphical User Interface for ease of use.
 
 Standalone executables for both Windows (`.exe`) and Linux are provided. No Python installation is required for end-users.
 
@@ -18,7 +18,7 @@ Standalone executables for both Windows (`.exe`) and Linux are provided. No Pyth
 - **User-Friendly GUI:** A complete, interactive wizard interface built with Tkinter. No more command-line interactions.
 - **Smart Whitelist:** Easily browse and select your `following.json` (or any follower list) to automatically skip unliking posts from your protected users.
 - **Auto-Save / Crash Recovery:** Every time a like is successfully removed (or if the post is already deleted), it is permanently removed from your `liked_posts.json` file. If your internet disconnects or you hit a rate limit, simply run the bot again; it will resume exactly where it left off.
-- **Undetected Chromedriver:** Bypasses Instagram's automated bot detection systems (WebDriver flags). Again, NOT GUARANTEED!
+- **Undetected Chromedriver:** Bypasses Instagram's automated bot detection systems (WebDriver flags). ***Again, NOT GUARANTEED!***
 - **Human-like Interaction:** Uses a hybrid clicking method (ActionChains + JS) to solve the scroll-snapping issue on Reels without scrolling physically.
 - **Multi-Language Support:** The setup wizard natively supports both English and Turkish.
 
