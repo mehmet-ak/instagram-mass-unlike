@@ -46,10 +46,6 @@ If you don't want to deal with Python, use the compiled executable:
     ./InstagramMassUnlike-LinuxGUI
     ```
 4. Follow the on-screen GUI wizard just like the Windows version.
-5. Run the executable:
-    ```bash
-    ./InstagramMassUnlike-LinuxGUI
-    ```
 
 ## For Developers
 If you want to run the project from the source code:
