@@ -15,5 +15,9 @@ liked_posts.json
 following.json
 followers_1.json
 
+# files the bot creates next to your likes file (they contain post links from your data)
+*.progress.jsonl
+*.log
+
 # system file
 .DS_Store
